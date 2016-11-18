@@ -74,7 +74,7 @@ $messages['changehelpreset'] = "Passwort vergessen?";
 $messages['changehelpquestions'] = "<a href=\"?action=resetbyquestions\">R&uuml;cksetzen Ihres Passworts durch Beantwortung von Fragen</a>";
 $messages['changehelptoken'] = "<a href=\"?action=sendtoken\">R&uuml;cksetzen Ihres Passworts &uuml;ber Mailaustausch</a>";
 $messages['changehelpsms'] = "<a href=\"?action=sendsms\">R&uuml;cksetzen Ihres Passworts per SMS</a>";
-$messages['resetmessage'] = "Hallo {login},\n\nKlicken Sie hier um Ihr Passwrot zur&uuml;ckzusetzen:\n{url}\n\nFalls Sie keine R&uuml;cksetzung beantragt haben, ignorieren Sie dies bitte.";
+$messages['resetmessage'] = "Hallo {login},\n\nKlicken Sie hier um Ihr Passwort zur&uuml;ckzusetzen:\n{url}\n\nFalls Sie keine R&uuml;cksetzung beantragt haben, ignorieren Sie dies bitte.";
 $messages['resetsubject'] = "Setzen Sie Ihr Passwort zur&uuml;ck";
 $messages['sendtokenhelp'] = "Geben Sie Ihren Benutzernamen und Passwort ein um Ihr Passwort zur&uuml;ckzusetzen. Danach klicken Sie auf den Link in der gesendeten Mail.";
 $messages['mail'] = "Mail";
@@ -111,13 +111,13 @@ $messages['menuquestions'] = "Frage";
 $messages['menutoken'] = "Mail";
 $messages['menusms'] = "SMS";
 $messages['nophpxml'] = "Sie ben&ouml;tigen die PHP XML Erweiterung um dieses Tool zu nutzen";
-$messages['tokenattempts'] = "Invalid token, try again";
-$messages['emptychangeform'] = "Change your password";
+$messages['tokenattempts'] = "Ung&uuml;ltiges Token, versuchen Sie es erneut";
+$messages['emptychangeform'] = "Passwort &auml;ndern";
 $messages['emptysendtokenform'] = "Email a password reset link";
-$messages['emptyresetbyquestionsform'] = "Reset your password";
+$messages['emptyresetbyquestionsform'] = "Setzen Sie Ihr Passwort zur&uuml;ck";
 $messages['emptysetquestionsform'] = "Set your password reset questions";
 $messages['emptysendsmsform'] = "Get a reset code";
-$messages['sameaslogin'] = "Your new password is identical to your login";
+$messages['sameaslogin'] = "Ihr neues Passwort ist identisch mit Ihrem LoginYour new password is identical to your login";
 $messages['policydifflogin'] = "Your new password may not be the same as your login";
 
 ?>
