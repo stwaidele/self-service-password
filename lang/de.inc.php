@@ -86,7 +86,7 @@ $messages['tokenrequired'] = "Token benötigt";
 $messages['tokennotvalid'] = "Token ungültig";
 $messages['resetbytokenhelp'] = "Das mit der Mail versandte Token erlaubt Ihnen das Rücksetzen Ihres Passworts. Um ein neues Token zu erhalten, <a href=\"?action=sendtoken\">klicken Sie hier</a>.";
 $messages['resetbysmshelp'] = "Das mit per SMS versandte Token erlaubt Ihnen das Rücksetzen Ihres Passworts. Um ein neues Token zu erhalten, <a href=\"?action=sendtoken\">klicken Sie hier</a>.";
-$messages['changemessage'] = "Hello {login},\n\nYour password has been changed.\n\nIf your are not the issuer of this request, please contact your administrator immediately.";
+$messages['changemessage'] = "Hallo {login},\n\nIhr Passwort wurde geändert.\n\nWenn Sie dies nicht selbst veranlasst haben, melden Sie dies bitte umgehen dem IT-Support unter it@kircheneuenburg.de.\n\nMit freundlichen Grüßen,\nIhre IT der Kirche Neuenburg\n\n--\n\nKirche Neuenburg\nFriedhofstraße 18\n79395 Neuenburg am Rhein\nEmail: it@kircheneuenburg.de - Web: http://kircheneuenburg.de/\n--\n";
 $messages['changesubject'] = "Ihr Passwort wurde geändert";
 $messages['badcaptcha'] = "Die reCAPTCHA wurde nicht richtig eingegeben. Versuchen Sie es erneut.";
 $messages['notcomplex'] = "Ihr Passwort hat nicht genug verschiedene Klassen von Zeichen";
